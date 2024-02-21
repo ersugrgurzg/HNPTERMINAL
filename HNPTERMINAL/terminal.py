@@ -128,7 +128,7 @@ def Terminale():
     
     greenita_style = Style.parse("italic green")
     
-    for i in track(range(100), description="Téléchargement.. | Made by Psycho & Hysox."):
+    for i in track(range(100), description="Téléchargement.. | Made by Psycho."):
         time.sleep(0.02)
 
     time.sleep(1)
